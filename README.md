@@ -108,7 +108,7 @@
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
     </p>
 
-<h3 id="----backend-development"><span width="20px">🎨</span>IDE's</h3>
+<h3 id="----backend-development"><span width="20px">🖥️</span>IDE's</h3>
     <p>
         <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode">
         <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&amp;logo=eclipse&amp;logoColor=white" alt="eclipse IDE">
@@ -116,7 +116,7 @@
 
   </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><span>📨</span>Connect with me:</h3>
   <p align="left">
    <div bis_skin_checked="1">
     <a href="https://www.linkedin.com/in/selitha-sasmitha-8891b096" target="_blank">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selitha Sasmitha</h1>
-<h3 align="center"><span>🎓</span>A self learning Programmer (specializing in React & Node Js Applications) and Associate Software Engineer at jWareautomation</h3>
+<h3 align="center"><span>🎓</span>A self learning Programmer (specializing in React & Node Js Applications) and Full-stack Developer.</h3>
 <h5 align="left">I'm a passionate software engineer with a strong background in full-stack development, specializing in both front-end and back-end technologies. With over a year of experience in the industry, I am dedicated to building high-quality, scalable web applications and continuously enhancing my skill set.</h5>
 <h5 align="left"> When I encounter a problem in my code, I always strive to follow data structures and algorithms to find the best solution. Additionally, I consistently adhere to industry best practices to ensure my work is efficient, maintainable, and scalable.</h5>
 
